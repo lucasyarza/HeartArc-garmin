@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="3" lineNum="13" pc="268435456" symbol="initialize"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="3" lineNum="15" pc="268435460" symbol="initialize"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="3" lineNum="16" pc="268435481" symbol="initialize"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="3" lineNum="17" pc="268435491" symbol="initialize"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="3" lineNum="19" pc="268435549" symbol="initialize"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="3" lineNum="23" pc="268435574" symbol="initialize"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="3" lineNum="24" pc="268435592" symbol="initialize"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="3" lineNum="25" pc="268435605" symbol="initialize"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="4" lineNum="30" pc="268435619" symbol="compute"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="4" lineNum="31" pc="268435623" symbol="compute"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="4" lineNum="33" pc="268435634" symbol="compute"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="4" lineNum="34" pc="268435653" symbol="compute"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="5" lineNum="38" pc="268435679" symbol="onUpdate"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="5" lineNum="40" pc="268435683" symbol="onUpdate"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="5" lineNum="41" pc="268435696" symbol="onUpdate"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="5" lineNum="42" pc="268435709" symbol="onUpdate"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="5" lineNum="44" pc="268435726" symbol="onUpdate"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="5" lineNum="45" pc="268435753" symbol="onUpdate"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="5" lineNum="46" pc="268435766" symbol="onUpdate"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="5" lineNum="50" pc="268435817" symbol="onUpdate"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="5" lineNum="51" pc="268435843" symbol="onUpdate"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="5" lineNum="53" pc="268435869" symbol="onUpdate"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="5" lineNum="56" pc="268435938" symbol="onUpdate"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="5" lineNum="57" pc="268436053" symbol="onUpdate"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="5" lineNum="60" pc="268436107" symbol="onUpdate"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="5" lineNum="61" pc="268436107" symbol="onUpdate"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="6" lineNum="67" pc="268436183" symbol="getFont"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="6" lineNum="69" pc="268436187" symbol="getFont"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="6" lineNum="71" pc="268436201" symbol="getFont"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="6" lineNum="72" pc="268436245" symbol="getFont"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="6" lineNum="75" pc="268436258" symbol="getFont"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="7" lineNum="78" pc="268436262" symbol="getSpace"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="7" lineNum="79" pc="268436266" symbol="getSpace"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="7" lineNum="80" pc="268436289" symbol="getSpace"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="85" pc="268436308" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="87" pc="268436312" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="88" pc="268436480" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="89" pc="268436487" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="90" pc="268436494" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="91" pc="268436501" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="93" pc="268436508" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="94" pc="268436515" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="97" pc="268436528" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="98" pc="268436545" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="99" pc="268436558" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="100" pc="268436585" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="104" pc="268436626" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="105" pc="268436637" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="106" pc="268436658" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="110" pc="268436678" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="111" pc="268436678" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="112" pc="268436728" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="114" pc="268436751" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="114" pc="268436765" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="116" pc="268436771" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="117" pc="268436782" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="121" pc="268436798" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="122" pc="268436819" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="123" pc="268436848" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="124" pc="268436865" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="128" pc="268436932" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="129" pc="268436932" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="130" pc="268436981" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="131" pc="268437017" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="132" pc="268437031" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="133" pc="268437091" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="134" pc="268437127" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="135" pc="268437141" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcView.mc" id="8" lineNum="137" pc="268437195" symbol="drawZoneBarsArcs"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcApp.mc" id="10" lineNum="5" pc="268437199" symbol="initialize"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcApp.mc" id="10" lineNum="6" pc="268437203" symbol="initialize"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcApp.mc" id="11" lineNum="10" pc="268437222" symbol="onStart"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcApp.mc" id="12" lineNum="14" pc="268437227" symbol="onStop"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcApp.mc" id="13" lineNum="18" pc="268437232" symbol="getInitialView"/>
+<entry filename="/home/ldeyarza/garmin-ws/HeartArc/source/HeartArcApp.mc" id="13" lineNum="19" pc="268437236" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="29" symbol="AppNameBeta"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="8389138" symbol="label"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="14" method="true" symbol="getFont"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="16" method="true" symbol="drawZoneBarsArcs"/>
+<entry field="true" id="28" symbol="AppName"/>
+<entry id="15" method="true" symbol="getSpace"/>
+<entry id="9" object="true" symbol="HeartArcView"/>
+<entry field="true" id="19" symbol="LauncherIcon"/>
+<entry field="true" id="24" symbol="zone8"/>
+<entry field="true" id="20" symbol="zone7"/>
+<entry field="true" id="21" symbol="zone6"/>
+<entry field="true" id="22" symbol="zone5"/>
+<entry field="true" id="23" symbol="zone4"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="25" symbol="zone3"/>
+<entry field="true" id="26" symbol="zone2"/>
+<entry field="true" id="27" symbol="zone1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="8388747" symbol="currentHeartRate"/>
+<entry field="true" id="13" symbol="zoneLowerBound"/>
+<entry id="10" object="true" symbol="HeartArcApp"/>
+<entry id="17" module="true" symbol="Layouts"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="12" symbol="maxHr"/>
+<entry field="true" id="11" symbol="numZones"/>
+<entry id="18" module="true" symbol="Menus"/>
+<entry field="true" id="8388960" symbol="heartRate"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435536" name="zone" stackId="2" startPc="268435481"/>
+<entry endPc="268435549" name="i" stackId="1" startPc="268435481"/>
+<entry endPc="268435679" name="info" stackId="1" startPc="268435619"/>
+<entry endPc="268436160" name="zone" stackId="8" startPc="268436107"/>
+<entry endPc="268436182" name="radius" stackId="4" startPc="268435683"/>
+<entry endPc="268436182" name="height" stackId="3" startPc="268435683"/>
+<entry endPc="268436182" name="font" stackId="7" startPc="268435683"/>
+<entry endPc="268436182" name="backgroundColor" stackId="6" startPc="268435683"/>
+<entry endPc="268436182" name="width" stackId="2" startPc="268435683"/>
+<entry endPc="268436182" name="textCenter" stackId="5" startPc="268435683"/>
+<entry endPc="268436183" name="dc" stackId="1" startPc="268435679"/>
+<entry endPc="268436261" name="font" stackId="5" startPc="268436187"/>
+<entry endPc="268436262" name="height" stackId="2" startPc="268436183"/>
+<entry endPc="268436262" name="dc" stackId="4" startPc="268436183"/>
+<entry endPc="268436262" name="limit" stackId="3" startPc="268436183"/>
+<entry endPc="268436262" name="text" stackId="1" startPc="268436183"/>
+<entry endPc="268436307" name="size" stackId="4" startPc="268436266"/>
+<entry endPc="268436308" name="dc" stackId="1" startPc="268436262"/>
+<entry endPc="268436308" name="font" stackId="3" startPc="268436262"/>
+<entry endPc="268436308" name="text" stackId="2" startPc="268436262"/>
+<entry endPc="268436626" name="j" stackId="14" startPc="268436585"/>
+<entry endPc="268436678" name="j" stackId="16" startPc="268436658"/>
+<entry endPc="268436751" name="i" stackId="18" startPc="268436728"/>
+<entry endPc="268436932" name="j" stackId="19" startPc="268436819"/>
+<entry endPc="268437198" name="penO" stackId="7" startPc="268436312"/>
+<entry endPc="268437198" name="circleResaltWith" stackId="10" startPc="268436312"/>
+<entry endPc="268437198" name="degrees" stackId="11" startPc="268436312"/>
+<entry endPc="268437198" name="penI" stackId="8" startPc="268436312"/>
+<entry endPc="268437198" name="zonedegree" stackId="20" startPc="268436312"/>
+<entry endPc="268437198" name="zoneCircleWidth" stackId="15" startPc="268436312"/>
+<entry endPc="268437198" name="heartZone" stackId="17" startPc="268436312"/>
+<entry endPc="268437198" name="arcDegrees" stackId="13" startPc="268436312"/>
+<entry endPc="268437198" name="divDegree" stackId="12" startPc="268436312"/>
+<entry endPc="268437198" name="circleWith" stackId="9" startPc="268436312"/>
+<entry endPc="268437198" name="zoneColours" stackId="6" startPc="268436312"/>
+<entry endPc="268437199" name="radius" stackId="2" startPc="268436308"/>
+<entry endPc="268437199" name="dc" stackId="1" startPc="268436308"/>
+<entry endPc="268437199" name="hr" stackId="5" startPc="268436308"/>
+<entry endPc="268437199" name="centerY" stackId="4" startPc="268436308"/>
+<entry endPc="268437199" name="centerX" stackId="3" startPc="268436308"/>
+<entry endPc="268437227" name="state" stackId="1" startPc="268437222"/>
+<entry endPc="268437232" name="state" stackId="1" startPc="268437227"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="150" parentId="globals" symbolId="HeartArcApp" type="class"/>
+<dataEntry offset="221" parentId="globals" symbolId="HeartArcView" type="class"/>
+<dataEntry offset="340" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="419" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="458" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="489" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="520" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="551" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="582" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="HeartArcView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="HeartArcView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="HeartArcView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getFont" parent="HeartArcView">
+<param id="text"/>
+<param id="height"/>
+<param id="limit"/>
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSpace" parent="HeartArcView">
+<param id="dc"/>
+<param id="text"/>
+<param id="font"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawZoneBarsArcs" parent="HeartArcView">
+<param id="dc"/>
+<param id="radius"/>
+<param id="centerX"/>
+<param id="centerY"/>
+<param id="hr"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="HeartArcApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="HeartArcApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="HeartArcApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="HeartArcApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

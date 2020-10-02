@@ -1,0 +1,12 @@
+<properties>
+	<property id="zone1" type="number">99</property>
+	<property id="zone2" type="number">109</property>
+	<property id="zone3" type="number">132</property>
+	<property id="zone4" type="number">140</property>
+	<property id="zone5" type="number">149</property>
+	<property id="zone6" type="number">165</property>
+	<property id="zone7" type="number">0</property>
+	<property id="zone8" type="number">0</property>
+	<property id="maxHr" type="number">190</property>
+	<property id="numZones" type="number">6</property>
+</properties>

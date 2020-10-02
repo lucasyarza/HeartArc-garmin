@@ -1,0 +1,16 @@
+<strings>
+    <string id="AppName">HeartArc</string>
+    <string id="AppNameBeta">HeartArcBeta</string>
+
+    <string id="label">HR</string>
+    <string id="zone1">zone1 start hr</string>
+    <string id="zone2">zone2 start hr</string>
+    <string id="zone3">zone3 start hr</string>
+    <string id="zone4">zone4 start hr</string>
+    <string id="zone5">zone5 start hr</string>
+    <string id="zone6">zone6 start hr</string>
+    <string id="zone7">zone7 start hr</string>
+    <string id="zone8">zone8 start hr</string>
+    <string id="maxHr">maxHr maximum hr</string>
+    <string id="numZones">Number of zones</string>
+</strings>
